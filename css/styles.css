@@ -1,6 +1,7 @@
 body{
-    background-color: #eee;
+    background-color: #EAF6F6;
 }
+
 hr{
     border-style: none;
     border-top: dotted;
@@ -8,6 +9,7 @@ hr{
     border-color: gray;
     width: 5%;
 }
+
 img{
     width: 150px;
 }
