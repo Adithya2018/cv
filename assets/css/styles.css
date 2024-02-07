@@ -1,0 +1,14 @@
+* {
+    background-color: #eee;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr 1fr 1fr;
+    justify-content: space-evenly;
+}
