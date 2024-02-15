@@ -1,0 +1,15 @@
+.navbar_container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background: #333;
+    color: #ddd
+}
+
+.navbar_container ul {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: space-around;
+}
